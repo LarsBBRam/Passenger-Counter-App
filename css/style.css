@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url(/assets/img/joel\ de\ vriend\ subway.jpg);
+  background-image: url(../assets/img/joel_de_vriend_subway.jpg);
   background-size: cover;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue",
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;
