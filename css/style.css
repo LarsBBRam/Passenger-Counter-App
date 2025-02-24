@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(/assets/img/joel\ de\ vriend\ subway.jpg);
+  background-size: cover;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  height: 100svh;
+  color: #fafafa;
+}
+
+.container {
+}
+h1 {
+  margin: 10px 0;
+}
+
+h2 {
+  font-size: 50px;
+  margin: 0 0 20px 0;
+}
+
+button {
+  border: solid grey;
+  padding: 10px 0;
+  color: #fafafa;
+  font-weight: bold;
+  width: 200px;
+  margin: 0 0 5px 0;
+  border-radius: 5px;
+}
+#increment-button {
+  background: darkred;
+}
+#save-button {
+  background: darkgreen;
+}
